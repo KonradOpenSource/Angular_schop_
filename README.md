@@ -7,7 +7,6 @@ The Angular_schop application is an Angular application that allows you to add p
 
 
 
-Angular_Design is developed using following technologies:
 
 
 
